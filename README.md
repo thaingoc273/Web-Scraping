@@ -5,11 +5,16 @@ Extract information using Beautifulsoup and Selenium
 Example: 
 https://en.wikipedia.org/wiki/January_2
 
-Get information about each day and save all data in Sqlite database:
+a. Get information about each day and save all data in Sqlite database:
   - Events: All events which happens in the day
   - Births: People who were born in the day
   - Deaths: People who died in the day
   - Holidays: Holidays which take place in the day
+
+b. Get all States information in USA
+  - Extract information from a table
+  
+  https://en.wikipedia.org/wiki/U.S._state
  
 # 2. Retrieve job information from websites
   Extract useful job information from two websites and save in .csv file for further analysis:
