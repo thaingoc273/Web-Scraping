@@ -16,3 +16,5 @@ Get information about each day and save all data in Sqlite database:
   
     - https://www.xing.com
     - https://de.indeed.com
+
+  Scrap pages both statics and dynamics websites using Beautifulsoup and Selenium
