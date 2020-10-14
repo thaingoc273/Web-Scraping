@@ -18,8 +18,10 @@ b. Get all States information in USA
  
 # 2. Retrieve job information from websites
   Extract useful job information from two websites and save in .csv file for further analysis:
+   
+   https://www.xing.com
+   
+   https://de.indeed.com
+   
   
-    - https://www.xing.com
-    - https://de.indeed.com
-
-  Scrap pages both statics and dynamics websites using Beautifulsoup and Selenium
+  Scrape pages both statics and dynamics websites using Beautifulsoup and Selenium
