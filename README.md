@@ -2,8 +2,7 @@
 Extract information using Beautifulsoup and Selenium
 
 # 1. Retrieve infomation from wikipedia
-Example: 
-https://en.wikipedia.org/wiki/January_2
+Example: [WIKI](https://en.wikipedia.org/wiki/January_2)
 
 a. Get information about each day and save all data in Sqlite database:
   - Events: All events which happens in the day
@@ -14,14 +13,14 @@ a. Get information about each day and save all data in Sqlite database:
 b. Get all States information in USA
   - Extract information from a table
   
-  https://en.wikipedia.org/wiki/U.S._state
+  [US STATES](https://en.wikipedia.org/wiki/U.S._state)
  
 # 2. Retrieve job information from websites
   Extract useful job information from two websites and save in .csv file for further analysis:
    
-   https://www.xing.com
+   [XING](https://www.xing.com 'XING WEBSITE')
    
-   https://de.indeed.com
+   [INDEED](https://de.indeed.com "Indeed Website")
    
   
   Scrape pages both statics and dynamics websites using Beautifulsoup and Selenium
